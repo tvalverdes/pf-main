@@ -1,4 +1,4 @@
-import { filterTextBySection, statisticsList } from '@/app/constants/constants'
+import { filterTextBySection, statisticsList } from '@/app/types/constants'
 import { SectionText } from '../../section-text/Index'
 import { Divider } from '@chakra-ui/react'
 

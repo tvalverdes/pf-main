@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { SectionText } from '../../section-text/Index'
-import { filterTextBySection } from '@/app/constants/constants'
+import { filterTextBySection } from '@/app/types/constants'
 import { Divider } from '@chakra-ui/react'
 
 export const AboutUs = () => {

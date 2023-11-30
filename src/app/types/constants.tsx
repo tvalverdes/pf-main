@@ -1,4 +1,3 @@
-import { ReactComponentElement } from 'react'
 import {
   FaChalkboardTeacher,
   FaClock,
@@ -9,11 +8,9 @@ import {
 import { LuLineChart } from 'react-icons/lu'
 import { FaShieldAlt, FaPiggyBank, FaMoneyBillWave } from 'react-icons/fa'
 import { IoPerson } from 'react-icons/io5'
+import { BooksList, ItemList, ReputationList, SectionTextProps, TestimonialsList, WebLinks } from './types'
 
-type WebLinks = {
-  name: string
-  path: string
-}
+
 
 export const webLinks: WebLinks[] = [
   { name: 'Asesoría', path: '/home' },
@@ -21,15 +18,6 @@ export const webLinks: WebLinks[] = [
   { name: 'Blog', path: '/blog' },
   { name: 'Contacto', path: '/contacto' },
 ]
-
-export type SectionTextProps = {
-  section: string
-  header: string
-  leftText: string
-  highlightedText: string
-  rightText: string
-  paragraph: string
-}
 
 export const sectionTextContent: SectionTextProps[] = [
   {
@@ -80,11 +68,7 @@ export const sectionTextContent: SectionTextProps[] = [
 export const filterTextBySection = (name: string) =>
   sectionTextContent.filter((item) => item.section === name)[0]
 
-type ItemList = {
-  icon: ReactComponentElement<any>
-  title: string
-  description: string
-}
+
 export const topics: ItemList[] = [
   {
     icon: <FaChalkboardTeacher />,
@@ -121,7 +105,7 @@ export const topics: ItemList[] = [
   },
 ]
 
-type ReputationList = Omit<ItemList, 'icon'>
+
 
 export const reputationList: ReputationList[] = [
   {
@@ -163,14 +147,6 @@ export const statisticsList: ItemList[] = [
     description: 'videos',
   },
 ]
-
-type TestimonialsList = {
-  image: string
-  name: string
-  job: string
-  rate: number
-  comment: string
-}
 
 export const testimonial: TestimonialsList[] = [
   {
@@ -221,12 +197,6 @@ export const testimonial: TestimonialsList[] = [
       'La asesoría fue personalizada y adaptada a mis necesidades. Me dio consejos prácticos para mejorar mi situación financiera.',
   },
 ]
-
-type BooksList = {
-  image: string
-  title: string
-  href: string
-}
 
 export const bookList: BooksList[] = [
   {

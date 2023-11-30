@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { SectionText } from '../../section-text/Index'
-import { filterTextBySection } from '../../../constants/constants'
+import { filterTextBySection } from '../../../types/constants'
 import { Button } from '@chakra-ui/react'
 
 export const FinancialAdvice = () => {

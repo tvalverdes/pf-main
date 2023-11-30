@@ -1,5 +1,5 @@
 'use client'
-import { testimonial } from '@/app/constants/constants'
+import { testimonial } from '@/app/types/constants'
 import Image from 'next/image'
 import { FaStar } from 'react-icons/fa'
 import React, { Component } from 'react'

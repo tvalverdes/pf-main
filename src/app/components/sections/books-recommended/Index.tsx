@@ -1,4 +1,4 @@
-import { bookList, filterTextBySection } from '@/app/constants/constants'
+import { bookList, filterTextBySection } from '@/app/types/constants'
 import { SectionText } from '../../section-text/Index'
 import Image from 'next/image'
 

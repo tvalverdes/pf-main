@@ -1,4 +1,4 @@
-import { SectionTextProps } from '@/app/constants/constants'
+import { SectionTextProps } from '@/app/types/constants'
 
 export const SectionText = (props: SectionTextProps) => {
   return (

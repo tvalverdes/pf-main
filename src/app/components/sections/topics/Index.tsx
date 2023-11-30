@@ -1,4 +1,4 @@
-import { topics } from '@/app/constants/constants'
+import { topics } from '@/app/types/constants'
 
 export const Topics = () => {
   return (

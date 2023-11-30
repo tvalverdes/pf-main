@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { webLinks } from '../../constants/constants'
+import { webLinks } from '../../types/constants'
 
 type Props = {
   className?: string

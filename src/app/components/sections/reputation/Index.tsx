@@ -1,7 +1,7 @@
-import { filterTextBySection } from '@/app/constants/constants'
+import { filterTextBySection } from '@/app/types/constants'
 import Image from 'next/image'
 import { SectionText } from '../../section-text/Index'
-import { reputationList } from '../../../constants/constants'
+import { reputationList } from '../../../types/constants'
 
 export const Reputation = () => {
   return (

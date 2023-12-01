@@ -51,10 +51,19 @@ strong {
 .action-button {
   color: white;
   width: fit-content;
+  transition: all 0.3s ease-in-out ;
 }
 
 .action-button:hover {
-  scale: 1.1;
+  transform: scale(1.1);  
+}
+
+.img {
+  transition: transform 0.3s ease-in-out ;
+}
+
+.img:hover {
+  transform: scale(1.05);  
 }
 .img-right {
   animation: translate-from-right 0.7s ease-in-out;

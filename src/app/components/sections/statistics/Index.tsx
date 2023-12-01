@@ -4,7 +4,7 @@ import { Divider } from '@chakra-ui/react'
 
 export const Statistics = () => {
   return (
-    <section className="bg-[#FFF] py-20">
+    <section className="bg-[#fefefe] py-20">
       <div className="container mx-auto gap-12 px-1">
         <div className="flex flex-col gap-10">
           <SectionText {...filterTextBySection('estadisticas')} />

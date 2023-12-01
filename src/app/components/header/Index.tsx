@@ -12,7 +12,7 @@ export const Header = () => {
   const [showMenu, setShowMenu] = useState(false)
   const handleShowMenu = () => setShowMenu(!showMenu)
   return (
-    <header>
+    <header className="bg-[#fefefe]">
       <nav className="mx-auto container flex py-4 justify-between items-center">
         <div>
           <Link href={'/'}>

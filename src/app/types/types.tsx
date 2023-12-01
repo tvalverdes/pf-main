@@ -36,3 +36,8 @@ export type BooksList = {
   title: string
   href: string
 }
+
+export type SocialsList = Pick<ItemList, 'icon'> & {
+  name: string
+  href: string
+}

@@ -2,13 +2,17 @@ import {
   FaChalkboardTeacher,
   FaClock,
   FaEye,
+  FaFacebook,
   FaRegCreditCard,
+  FaTiktok,
   FaYoutube,
 } from 'react-icons/fa'
 import { LuLineChart } from 'react-icons/lu'
 import { FaShieldAlt, FaPiggyBank, FaMoneyBillWave } from 'react-icons/fa'
 import { IoPerson } from 'react-icons/io5'
-import { BooksList, ItemList, ReputationList, SectionTextProps, TestimonialsList, WebLinks } from './types'
+import { FaSquareThreads, FaSquareXTwitter } from "react-icons/fa6";
+import { RiInstagramFill } from "react-icons/ri";
+import { BooksList, ItemList, ReputationList, SectionTextProps, SocialsList, TestimonialsList, WebLinks } from './types'
 
 
 
@@ -229,4 +233,37 @@ export const bookList: BooksList[] = [
     title: 'Hábitos Atómicos',
     href: 'https://www.buscalibre.pe/libro-habitos-atomicos/9786124404245/p/54033302?afiliado=16952b632200547b1258',
   },
+]
+
+export const socialsList: SocialsList[] = [
+{
+  icon: <FaYoutube />,
+  name: 'YouTube',
+  href: 'https://www.youtube.com/@pasionporlasfinanzas/featured',
+},
+{
+  icon: <RiInstagramFill />,
+  name: 'Instagram',
+  href: 'https://www.instagram.com/pasionporlasfinanzas/',
+},
+{
+  icon: <FaFacebook />,
+  name: 'Facebook',
+  href: 'https://www.facebook.com/pasionporlasfinanzas',
+},
+{
+  icon: <FaTiktok />,
+  name: 'TikTok',
+  href: 'https://www.youtube.com/channel/UC0Q6ZbJ2yRh8Y3RSeJr0UQg',
+},
+{
+  icon: <FaSquareXTwitter />,
+  name: 'X',
+  href: 'https://twitter.com/pasionxfinanzas',
+},
+{
+  icon: <FaSquareThreads />,
+  name: 'Threads',
+  href: 'https://www.threads.net/@pasionporlasfinanzas',
+},
 ]

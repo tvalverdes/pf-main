@@ -22,6 +22,7 @@ export const BooksRecommended = () => {
                     title={book.title}
                     quality={100}
                     loading="lazy"
+                    className="img"
                   />
                 </a>
               </div>

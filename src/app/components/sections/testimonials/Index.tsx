@@ -46,7 +46,7 @@ class Testimonials extends Component {
       ],
     }
     return (
-      <section className="bg-[#FFF] py-12">
+      <section className="bg-[#fefefe] py-12">
         <div className="container mx-auto px-1">
           <h2 className="section-header pb-4">TESTIMONIOS</h2>
           <Slider {...settings}>

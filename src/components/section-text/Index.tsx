@@ -1,4 +1,4 @@
-import { SectionTextProps } from '@/types/constants'
+import { SectionTextProps } from '@/types/types'
 
 export const SectionText = (props: SectionTextProps) => {
   return (

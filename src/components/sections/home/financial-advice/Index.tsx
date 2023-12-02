@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import { SectionText } from '../../../section-text/Index'
 import { filterTextBySection } from '@/types/constants'
+import { InverstButton } from '@/components/invest-button/Index'
 
 export const FinancialAdvice = () => {
   return (
@@ -9,9 +10,7 @@ export const FinancialAdvice = () => {
         <section className="grid sm:grid-cols-2 pt-12 gap-4 sm:pt-28 pb-12">
           <div className="flex flex-col gap-12">
             <SectionText {...filterTextBySection('asesoria')} />
-            <button className="bg-primary font-semibold action-button p-4 rounded-lg">
-              APRENDE A INVERTIR
-            </button>
+            <InverstButton />
           </div>
           <div>
             <Image

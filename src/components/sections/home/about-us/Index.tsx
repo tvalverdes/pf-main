@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { SectionText } from '../../../section-text/Index'
 import { filterTextBySection } from '@/types/constants'
 import { Divider } from '@chakra-ui/react'
+import { InverstButton } from '@/components/invest-button/Index'
 
 export const AboutUs = () => {
   return (
@@ -17,9 +18,7 @@ export const AboutUs = () => {
               loading="lazy"
               className="img-left"
             />
-            <button className="bg-primary font-semibold action-button p-4 -mt-4 sm:-mt-8 ms-8 rounded-lg">
-              APRENDE A INVERTIR
-            </button>
+            <InverstButton />
           </div>
 
           <div className="flex flex-col gap-12">

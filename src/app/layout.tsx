@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { Work_Sans } from 'next/font/google'
 import './globals.css'
 import { Providers } from './providers'
+import { Header } from '@/components/header/Index'
+import { Footer } from '@/components/footer/Index'
 
 const inter = Work_Sans({ subsets: ['latin'] })
 
@@ -18,7 +20,11 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={inter.className}>
-        <Providers>{children}</Providers>
+        <Providers>
+          <Header />
+          {children}
+          <Footer />
+        </Providers>
       </body>
     </html>
   )

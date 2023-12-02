@@ -71,6 +71,12 @@ strong {
 .img-left {
   animation: translate-from-left 0.7s ease-in-out;
 }
+.toggle-btn{
+  transition: all 0.3s ease-in-out ;
+}
+.toggle-btn:hover {
+  background-color: #dadee1;  
+}
 
 .sign {
   font-family: 'Cedarville Cursive', cursive;
@@ -132,10 +138,10 @@ strong {
 .testimony-card {
   height: inherit;
 }
-
+/* 
 .slick-slider {
   visibility: hidden !important;
 }
 .slick-slider.slick-initialized {
   visibility: visible !important;
-}
+} */

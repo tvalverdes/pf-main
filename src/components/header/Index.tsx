@@ -21,7 +21,7 @@ export const Header = () => {
               priority
               width={200}
               height={70}
-              alt="logo"
+              alt="Logo"
             />
           </Link>
         </div>
@@ -33,7 +33,7 @@ export const Header = () => {
         {showMenu && (
           <div className="navbar__links sm:hidden font-semibold text-lg flex  gap-8">
             <ul className="fixed top-0 right-0 left-0 bottom-0 lg:bottom-auto bg-slate-100">
-              <WebLinks className="flex w-full justify-center items-center pt-12" />
+              <WebLinks hideMenu={handleShowMenu} className="flex w-full justify-center items-center pt-12" />
             </ul>
           </div>
         )}

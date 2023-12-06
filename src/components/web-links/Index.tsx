@@ -5,6 +5,7 @@ import { usePathname } from 'next/navigation'
 
 type Props = {
   className?: string
+  hideMenu?: () => void
 }
 export const WebLinks = (props: Props) => {
   const currentRoute = usePathname()
@@ -18,6 +19,7 @@ export const WebLinks = (props: Props) => {
           >
             <Link
               href={link.path === currentRoute ? '' : link.path}
+              onClick={props.hideMenu}
               className={`nav__link ${
                 link.path === currentRoute ? 'active' : ''
               }`}

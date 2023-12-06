@@ -28,6 +28,7 @@ import {
 export const contactEmail = 'contacto@pasionporlasfinanzas.com'
 
 export const webLinks: WebLinks[] = [
+  { name: 'Inicio', path: '/' },
   { name: 'Asesoría', path: 'https://asesoria.pasionporlasfinanzas.com' },
   { name: 'Nosotros', path: '/about' },
   { name: 'Contacto', path: '/contact' },

@@ -9,9 +9,7 @@ import { WebLinks } from '../web-links/Index'
 export const Header = () => {
   const [showMenu, setShowMenu] = useState(false)
   const handleShowMenu = () => {
-    console.log(showMenu)
     setShowMenu(!showMenu)
-    console.log(showMenu)
   }
   return (
     <header className="bg-gray_light">

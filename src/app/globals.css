@@ -40,6 +40,10 @@ a.active {
   color: #0090D4;
 }
 
+p>img {
+  width: 60%;
+}
+
 .nav__link:hover::after {
   width: 100%;
   transition: width .3s;

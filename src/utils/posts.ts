@@ -8,17 +8,17 @@ export const getPostsMetadata = (
 ): PostMetaData[] => {
   const folder = 'src/posts/'
   const files = fs.readdirSync(folder)
-  console.log(files)
+  // console.log(files)
   const markdownPosts = files.filter((file) => file.endsWith('.md'))
-
+/*
   const startIndex = (page - 1) * postsPerPage
-  const endIndex = startIndex + postsPerPage
+  const endIndex = startIndex + postsPerPage */
 
-  const paginatedPosts = markdownPosts.slice(startIndex, endIndex)
+  //const paginatedPosts = markdownPosts.slice(startIndex, endIndex)
 
   const cantidad = fs.readdirSync('src/posts').length
   console.log(cantidad)
-  const posts = paginatedPosts.map((fileName) => {
+  const posts = markdownPosts.map((fileName) => {
     const fileContents = fs.readFileSync(`src/posts/${fileName}`, 'utf8')
     const matterResult = matter(fileContents)
     return {

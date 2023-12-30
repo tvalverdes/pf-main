@@ -7,7 +7,7 @@ import Image from 'next/image'
 import { PostMetadata } from '@/types/types'
 
 const getPostContent = (slug: string) => {
-  const folder = 'src/posts/'
+  const folder = 'src/app/posts/'
   const file = `${folder}${slug}.md`
   const content =  fs.readFileSync(file, 'utf8')
   const matterResult = matter(content)
@@ -21,7 +21,8 @@ export const generateStaticParams = () => {
     slug: post.slug
   })
   } catch (error) {
-    console.log(error)
+    console.error(error)
+    return[]
   }
   
 }

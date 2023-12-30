@@ -15,16 +15,10 @@ const getPostContent = (slug: string) => {
 }
 
 export const generateStaticParams = () => {
-  try {
     const post = getPostsMetadata()
   return post.map((post) => {
     slug: post.slug
-  })
-  } catch (error) {
-    console.error(error)
-    return[]
-  }
-  
+  })  
 }
 
 const author = {

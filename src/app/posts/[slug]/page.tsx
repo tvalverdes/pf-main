@@ -1,4 +1,3 @@
-import YouTubeVideo from '@/components/youtube-video/Index'
 import getPostsMetadata from '@/utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
@@ -55,8 +54,6 @@ const PostPage = (props: any) => {
       <div id='article'>
 
       <h1 className="text-4xl font-semibold">{postMetaData.title}</h1>
-
-      {/* postMetaData.youtubeId ? <YouTubeVideo videoId={postMetaData.youtubeId} autoPlay={true}  /> : null */}
       <Markdown>{post.content}</Markdown>
       </div>
         </article>

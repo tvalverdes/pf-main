@@ -9,16 +9,21 @@ import { PostMetadata } from '@/types/types'
 const getPostContent = (slug: string) => {
   const folder = 'src/posts/'
   const file = `${folder}${slug}.md`
-  const content = fs.readFileSync(file, 'utf8')
+  const content =  fs.readFileSync(file, 'utf8')
   const matterResult = matter(content)
   return matterResult
 }
 
-export const generateStaticParams = async () => {
-  const post = getPostsMetadata()
+export const generateStaticParams = () => {
+  try {
+    const post = getPostsMetadata()
   return post.map((post) => {
     slug: post.slug
   })
+  } catch (error) {
+    console.log(error)
+  }
+  
 }
 
 const author = {

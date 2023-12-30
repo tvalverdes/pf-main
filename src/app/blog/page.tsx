@@ -1,4 +1,4 @@
-import { getPostsMetadata } from '@/utils/posts'
+import getPostsMetadata  from '@/utils/posts'
 import PostPreview from '@/components/post-preview/PostPreview'
 
 export default function Blog() {

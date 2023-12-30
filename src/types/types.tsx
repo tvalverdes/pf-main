@@ -49,3 +49,11 @@ export type SocialsList = Omit<ItemList, 'img' | 'description'> & {
 export type GoalsList = Omit<ItemList, 'icon'>
 
 export type TeamList = Omit<ItemList, 'icon'>
+
+export type PostMetadata = {
+  title: string
+  date: string
+  image: string
+  subtitle: string
+  youtubeId?: string
+}

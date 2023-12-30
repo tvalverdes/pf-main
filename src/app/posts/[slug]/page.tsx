@@ -1,8 +1,10 @@
-import { getPostsMetadata } from '@/utils/posts'
+import YouTubeVideo from '@/components/youtube-video/Index'
+import getPostsMetadata from '@/utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
 import Markdown from 'markdown-to-jsx'
 import Image from 'next/image'
+import { PostMetadata } from '@/types/types'
 
 const getPostContent = (slug: string) => {
   const folder = 'src/posts/'
@@ -28,6 +30,7 @@ const author = {
 const PostPage = (props: any) => {
   const slug = props.params.slug
   const post = getPostContent(slug)
+  const postMetaData = post.data as PostMetadata
   const date: Date = new Date(post.data.date)
   const articleDate = date.toLocaleDateString('es-ES', {
     year: 'numeric',
@@ -45,14 +48,15 @@ const PostPage = (props: any) => {
                       <div>
                           <p rel="author" className="text-xl font-bold text-gray-900">{author.name}</p>
                           <p className="text-base text-gray-500 ">{author.bio}</p>
-                          <p className="text-base text-gray-500 "><time dateTime={post.data.date} title="February 8th, 2022">{articleDate}</time></p>
+                          <p className="text-base text-gray-500 "><time dateTime={postMetaData.date} title="February 8th, 2022">{articleDate}</time></p>
                       </div>
                   </div>
               </address>
       <div id='article'>
 
-      <h1 className="text-4xl font-semibold">{post.data.title}</h1>
+      <h1 className="text-4xl font-semibold">{postMetaData.title}</h1>
 
+      {/* postMetaData.youtubeId ? <YouTubeVideo videoId={postMetaData.youtubeId} autoPlay={true}  /> : null */}
       <Markdown>{post.content}</Markdown>
       </div>
         </article>

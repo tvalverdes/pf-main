@@ -3,15 +3,10 @@ title: "Tarjeta de crédito - ¿Buena o mala?"
 date: "2023-01-31"
 image: "comisiones-y-descuentos-afp.webp"
 subtitle: "Conoce cómo puedes usar tu tarjeta de crédito"
+youtubeId: "OekJNW-hdz0"
 ---
 
 En este artículo conocerás los beneficios y aspectos a tener en cuenta para usar tu tarjeta de crédito de forma inteligente.
-
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OekJNW-hdz0/hqdefault.jpg)(https://www.youtube.com/watch?v=OekJNW-hdz0)
-[![Alternativa](https://img.youtube.com/vi/OekJNW-hdz0/hqdefault.jpg)]
-(https://www.youtube.com/watch?v=OekJNW-hdz0 "Video")
-
-
 
 Seguramente has escuchado decir que la tarjeta de crédito es mala o sabes de alguien que está en aprietos porque no sabe cómo pagar su tarjeta de crédito; pero, ¿en realidad es así?
 

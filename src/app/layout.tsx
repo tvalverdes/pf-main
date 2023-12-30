@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { Work_Sans } from 'next/font/google'
 import './globals.css'
-import { Providers } from './providers'
+/* import { Providers } from './providers' */
 import { Header } from '@/components/header/Index'
 import { Footer } from '@/components/footer/Index'
 
@@ -20,11 +20,11 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={inter.className}>
-        <Providers>
+        {/* <Providers> */}
           <Header />
           {children}
           <Footer />
-        </Providers>
+        {/* </Providers> */}
       </body>
     </html>
   )

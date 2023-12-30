@@ -2,7 +2,7 @@ import { PostMetaData } from '@/types/interfaces'
 import fs from 'fs'
 import matter from 'gray-matter'
 
-const getPostsMetadata = (): PostMetaData[] => {
+const getPostMetadata = (): PostMetaData[] => {
   const folder = 'posts/'
   const files = fs.readdirSync(folder)
   const markdownPosts = files.filter((file) => file.endsWith('.md'))
@@ -20,4 +20,4 @@ const getPostsMetadata = (): PostMetaData[] => {
   return posts
 }
 
-export default getPostsMetadata
+export default getPostMetadata

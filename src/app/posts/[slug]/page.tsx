@@ -1,4 +1,4 @@
-import getPostsMetadata from '@/utils/posts'
+import getPostMetadata from '@/utils/posts'
 import fs from 'fs'
 import matter from 'gray-matter'
 import Markdown from 'markdown-to-jsx'
@@ -13,11 +13,11 @@ const getPostContent = (slug: string) => {
   return matterResult
 }
 
-export const generateStaticParams = () => {
-    const post = getPostsMetadata()
-  return post.map((post) => {
+export const generateStaticParams = async () => {
+    const posts = getPostMetadata()
+  return posts.map((post) => ({
     slug: post.slug
-  })  
+  }))  
 }
 
 const author = {

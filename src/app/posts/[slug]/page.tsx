@@ -5,13 +5,18 @@ import Markdown from 'markdown-to-jsx'
 import Image from 'next/image'
 import { PostMetadata } from '@/types/types'
 import YouTubeVideo from '@/components/youtube-video/Index'
+import { notFound } from 'next/navigation'
 
 const getPostContent = (slug: string) => {
   const folder = 'src/posts/'
   const file = `${folder}${slug}.md`
+  try {
   const content =  fs.readFileSync(file, 'utf8')
   const matterResult = matter(content)
   return matterResult
+  } catch (error) {
+    notFound()
+  }
 }
 
 export const generateStaticParams = async () => {
@@ -26,6 +31,8 @@ const author = {
   picture: '/images/andres_valverde.webp',
   bio: 'Ingeniero de Sistemas, Asesor Financiero',
 }
+
+
 
 const PostPage = (props: any) => {
   const slug = props.params.slug
@@ -65,5 +72,6 @@ const PostPage = (props: any) => {
     </main>
   )
 }
+
 
 export default PostPage

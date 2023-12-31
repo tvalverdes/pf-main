@@ -59,7 +59,7 @@ const YoutubeVideo: React.FC<IProps> = (props) => {
       src={videoURL}
       frameBorder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowFullScreen
+      allowFullScreen={false}
     />
   );
 };

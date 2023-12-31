@@ -4,6 +4,7 @@ import matter from 'gray-matter'
 import Markdown from 'markdown-to-jsx'
 import Image from 'next/image'
 import { PostMetadata } from '@/types/types'
+import YouTubeVideo from '@/components/youtube-video/Index'
 
 const getPostContent = (slug: string) => {
   const folder = 'src/posts/'
@@ -54,6 +55,7 @@ const PostPage = (props: any) => {
       <div id='article'>
 
       <h1 className="text-4xl font-semibold">{postMetaData.title}</h1>
+      {postMetaData.youtubeId ? <YouTubeVideo videoId={postMetaData.youtubeId} autoPlay={true}  /> : null}
       <Markdown>{post.content}</Markdown>
       </div>
         </article>

@@ -16,7 +16,7 @@ function NotFound() {
           <div className="flex flex-wrap items-center justify-center gap-3">
             <Link
               href="/"
-              className="block py-2 px-4 text-white font-medium bg-primary action-button rounded-lg"
+              className="block py-2 px-4 text-white font-medium bg-primary action-button w-fit rounded-lg"
             >
               Regresar
             </Link>

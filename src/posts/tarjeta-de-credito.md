@@ -1,7 +1,7 @@
 ---
 title: "Tarjeta de crédito - ¿Buena o mala?"
 date: "2023-01-31"
-image: "comisiones-y-descuentos-afp.webp"
+image: "tarjeta.webp"
 subtitle: "Conoce cómo puedes usar tu tarjeta de crédito"
 youtubeId: "OekJNW-hdz0"
 ---

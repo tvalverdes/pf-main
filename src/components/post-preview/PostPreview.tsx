@@ -11,6 +11,7 @@ const PostPreview = (post: PostMetaData, key: number) => {
         height={155.99}
         alt={`Portada de ${post.title}`}
         className="rounded-t-lg"
+        loading='lazy'
       />
       <div className='flex flex-col justify-between w-full h-full p-4 gap-3'>
         <div>

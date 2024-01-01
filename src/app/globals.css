@@ -17,10 +17,7 @@ body {
 .nav__link:hover{
   position: relative;
   text-decoration: none;
-  color: #0090D4;
-}
-
-.nav__link:hover{
+  color: #0090D4;  
   transition: color .3s;
 }
 .nav__link::after {

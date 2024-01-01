@@ -56,7 +56,7 @@ Podrías considerar a Afluenta como una opción si te preguntas en qué invertir
 
 Riesgo: ★★★★✩ 
 
-Lo califico como **riesgo alto** debido a que no tienes una garantía hipotecaria a tu nombre que te respalda a diferencia de "[Prestamype](https://pasionporlasfinanzas.com/prestamype-como-opcion-de-inversion/)". Sin embargo, existe una evaluación crediticia (como lo hace la mayoría de los bancos) que realiza Afluenta al solicitante. 
+Lo califico como **riesgo alto** debido a que no tienes una garantía hipotecaria a tu nombre que te respalda a diferencia de "[Prestamype](https://pasionporlasfinanzas.tvalverde.tech/posts/prestamype-como-opcion-de-inversion/)". Sin embargo, existe una evaluación crediticia (como lo hace la mayoría de los bancos) que realiza Afluenta al solicitante. 
 
 La plataforma es 100% Online, es decir, toda la documentación de las personas que solicitan el préstamo es a través de un ordenador, por lo que hay un riesgo de falsificación o suplantación. Me pasó que en algunos préstamos que había invertido, el deudor aseguraba que él no había solicitado nada, por lo que se presume que había sido suplantado.
 

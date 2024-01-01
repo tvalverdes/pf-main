@@ -38,9 +38,9 @@ Lo que les recomendaría sería buscar otras alternativas de inversión que se p
 #### 3\. No tiene monto mínimo de aporte y la rentabilidad depende del tipo de fondo
 
 Otra característica es que **no existe un monto mínimo de aporte**. Esta cuenta la puedes abrir desde 5 soles; por decir un monto.  
-La rentabilidad depende del tipo de fondo que elijas. Como sabemos y he explicado en el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.com/tipos-de-fondos-afp/), existen tipos de fondos en la AFP (tipo de fondo 0, 1, 2 y 3), entonces cuando abres una cuenta para aportes sin fin previsional, tienes que elegir un tipo de fondo.
+La rentabilidad depende del tipo de fondo que elijas. Como sabemos y he explicado en el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.tvalverde.tech/posts/tipos-de-fondos-afp/), existen tipos de fondos en la AFP (tipo de fondo 0, 1, 2 y 3), entonces cuando abres una cuenta para aportes sin fin previsional, tienes que elegir un tipo de fondo.
 
-Puedes elegir un fondo con alto riesgo y alta rentabilidad o poco riesgo y poca rentabilidad. Si deseas conocer de qué fondos hablo, cuánto porcentaje está en renta variable, cuánto en renta fija, entre otras cosas; te recomiendo revisar el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.com/tipos-de-fondos-afp/).
+Puedes elegir un fondo con alto riesgo y alta rentabilidad o poco riesgo y poca rentabilidad. Si deseas conocer de qué fondos hablo, cuánto porcentaje está en renta variable, cuánto en renta fija, entre otras cosas; te recomiendo revisar el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.tvalverde.tech/posts/tipos-de-fondos-afp/).
 
 #### 4\. Comisión mensual
 

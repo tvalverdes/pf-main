@@ -31,4 +31,4 @@ Estudia a las empresas, muchas de ellas tienen procesos o productos por mejorar 
 
 Las redes sociales son parte fundamental de un negocio en la actualidad. Ten presencia en ellas para llamar la atención de tus potenciales clientes, genera curiosidad con tus publicaciones, intenta responder a sus preguntas en poco tiempo y ofrece un producto y servicio que incite al cliente a recomendarte con sus conocidos.
 
-Conoce algunos negocios que podrían interesarte y cómo invertir en ellos en la categoría de [Inversión](https://pasionporlasfinanzas.com/category/inversion/)
+Conoce algunos negocios que podrían interesarte y cómo invertir en ellos en la categoría de [Inversión](https://pasionporlasfinanzas.tvalverde.tech/posts/category/inversion/)

@@ -34,7 +34,7 @@ Estarán enumeradas de la menos hasta la más flexible.
 
 1. AFP
 
-Existe una opción de inversión en las AFP que se llaman **aportes voluntarios sin fin previsional**. Entonces, tú inviertes el dinero voluntariamente y lo que hace es comprar cuotas de un tipo de fondo de la AFP; ya sabemos que existen varios tipos de fondo, como el 0, 1 2 y 3, si no conoces estos fondos, te recomiendo verificar el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.com/tipos-de-fondos-afp/).  
+Existe una opción de inversión en las AFP que se llaman **aportes voluntarios sin fin previsional**. Entonces, tú inviertes el dinero voluntariamente y lo que hace es comprar cuotas de un tipo de fondo de la AFP; ya sabemos que existen varios tipos de fondo, como el 0, 1 2 y 3, si no conoces estos fondos, te recomiendo verificar el artículo [Tipos de fondo AFP](https://pasionporlasfinanzas.tvalverde.tech/posts/tipos-de-fondos-afp/).  
   
 En estos aportes sin fin provisional sólo podemos invertir en fondo 1, 2 y 3. Si invertimos en el **fondo 1, hasta el 10 %** de ese dinero va a renta variable, que pueden ser acciones.  
 Si invertimos en el **fondo 2, hasta el 40 %** puede ir a renta variable y en el **fondo 3, hasta el 80 %**. Sin embargo, es poco flexible, porque nosotros no podemos elegir en qué acciones queremos invertir, solamente tenemos esos tres fondos y cada uno ya tiene su cartera de acciones o instrumentos en donde invierte.  

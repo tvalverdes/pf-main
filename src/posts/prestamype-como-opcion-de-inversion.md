@@ -58,7 +58,7 @@ Es muy fácil, para ser inversor solo tienes que registrarte en su página web, 
 
 * * *
 
-Podría interesarte: [¿Cómo invertir en acciones?](https://pasionporlasfinanzas.com/como-invertir-en-acciones/)
+Podría interesarte: [¿Cómo invertir en acciones?](https://pasionporlasfinanzas.tvalverde.tech/posts/como-invertir-en-acciones/)
 
 * * *
 
@@ -74,4 +74,4 @@ Espero les haya servido amigos. Les dejo el link de Prestamype para que puedan a
 
 Eso es todo por este artículo. Recuerda que puedes seguirnos en [YouTube](https://www.youtube.com/@PasionporlasFinanzas) y en nuestra redes sociales, los íconos están al final de la página.
 
-Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://pasionporlasfinanzas.com/separar-asesoria/).
+Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://asesoria.pasionporlasfinanzas.com).

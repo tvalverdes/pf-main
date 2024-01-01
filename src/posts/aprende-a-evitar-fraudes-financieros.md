@@ -34,7 +34,7 @@ Hoy les traigo un artículo muy importante. Te mostraré cómo identificar si es
 
 * * *
 
-Te puede interesar: [Reconoce ingresos Pasivos y Lineales](https://pasionporlasfinanzas.com/reconoce-ingresos-pasivos-y-lineales/)
+Te puede interesar: [Reconoce ingresos Pasivos y Lineales](https://pasionporlasfinanzas.tvalverde.tech/posts/reconoce-ingresos-pasivos-y-lineales/)
 
 * * *
 

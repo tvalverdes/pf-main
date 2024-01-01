@@ -32,7 +32,7 @@ Entonces, dependiendo del uso que le des a ciertos bienes pueden ser activos o p
 
 * * *
 
-Te puede interesar: [Reconoce ingresos Pasivos y Lineales](https://pasionporlasfinanzas.com/reconoce-ingresos-pasivos-y-lineales/)
+Te puede interesar: [Reconoce ingresos Pasivos y Lineales](https://pasionporlasfinanzas.tvalverde.tech/posts/reconoce-ingresos-pasivos-y-lineales/)
 
 * * *
 

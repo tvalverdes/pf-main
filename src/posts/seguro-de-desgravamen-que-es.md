@@ -12,7 +12,7 @@ tags:
 
 
 Vamos a aprender cómo nos cobran el seguro desgravamen en nuestras tarjetas de crédito.  
-Si no tienes claro cómo funciona el periodo de facturación de tu tarjeta de crédito te recomiendo que visites el artículo: [Ciclo de Facturación de tu tarjeta de crédito](https://pasionporlasfinanzas.com/ciclo-de-facturacion-de-tu-tarjeta-de-credito/), de esta forma comenzamos con el pie derecho y podrás entender mejor la explicación.
+Si no tienes claro cómo funciona el periodo de facturación de tu tarjeta de crédito te recomiendo que visites el artículo: [Ciclo de Facturación de tu tarjeta de crédito](https://pasionporlasfinanzas.tvalverde.tech/posts/ciclo-de-facturacion-de-tu-tarjeta-de-credito/), de esta forma comenzamos con el pie derecho y podrás entender mejor la explicación.
 
 ## ¿Quiénes necesitan saber esto?
 
@@ -24,7 +24,7 @@ Cabe mencionar que en el video explico cómo es que se calcula el seguro de desg
 
 * * *
 
-Podría interesarte: [AFP: Descuentos y comisiones](https://pasionporlasfinanzas.com/afp-descuentos-y-comisiones/)
+Podría interesarte: [AFP: Descuentos y comisiones](https://pasionporlasfinanzas.tvalverde.tech/posts/afp-descuentos-y-comisiones/)
 
 * * *
 

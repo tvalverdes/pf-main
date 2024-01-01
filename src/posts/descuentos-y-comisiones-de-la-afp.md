@@ -33,7 +33,7 @@ Este dinero se va acumulando mes a mes y la AFP lo administra, **pudiendo genera
 
 * * *
 
-Podría interesarte: [AFP para principiantes](https://pasionporlasfinanzas.com/afp-para-principiantes/)
+Podría interesarte: [AFP para principiantes](https://pasionporlasfinanzas.tvalverde.tech/posts/afp-para-principiantes/)
 
 * * *
 
@@ -70,7 +70,7 @@ Es importante recalcar que la SBS afirma que la “**Comisión Anual sobre el Sa
 
 * * *
 
-Podría interesarte: [Tipos de fondo AFP](https://pasionporlasfinanzas.com/tipos-de-fondos-afp/)
+Podría interesarte: [Tipos de fondo AFP](https://pasionporlasfinanzas.tvalverde.tech/posts/tipos-de-fondos-afp/)
 
 * * *
 

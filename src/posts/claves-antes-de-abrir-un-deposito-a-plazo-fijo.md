@@ -50,6 +50,6 @@ Por lo tanto, si el monto inicial que tengo es pequeño, tengo que **analizar a 
 
 * * *
 
-Puede interesarte: [Lo que debes saber de Fondos Mutuos](https://pasionporlasfinanzas.com/lo-que-debes-saber-de-fondos-mutuos/)
+Puede interesarte: [Lo que debes saber de Fondos Mutuos](https://pasionporlasfinanzas.tvalverde.tech/posts/lo-que-debes-saber-de-fondos-mutuos/)
 
 * * *

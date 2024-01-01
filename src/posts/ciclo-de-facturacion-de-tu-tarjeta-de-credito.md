@@ -30,7 +30,7 @@ Al usar una tarjeta de crédito, estás tomando prestado dinero de la empresa de
 
 * * *
 
-Te puede interesar: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.com/importancia-de-las-finanzas-personales/)
+Te puede interesar: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.tvalverde.tech/posts/importancia-de-las-finanzas-personales/)
 
 * * *
 

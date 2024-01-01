@@ -1,5 +1,6 @@
 import { ContactEmail } from '@/components/contact-email/Index'
 import { Metadata } from 'next'
+import Image from 'next/image'
 
 const props = {
   title: 'Contacto',
@@ -31,7 +32,7 @@ export default function Contact() {
   return (
     <main className="bg-gray_hero py-12">
       <section className="container mx-auto px-1">
-        <div className="flex flex-col gap-12 text-center">
+        <div className="flex flex-col gap-12 text-center justify-center items-center">
           <h1 className="text-primary text-4xl font-semibold">CONTACTO</h1>
           <p>
             Si quieres comunicarte con nosotros o recibir una Asesoría
@@ -39,10 +40,8 @@ export default function Contact() {
             &nbsp;
             <ContactEmail />
           </p>
+          <Image src={'/images/contacto.webp'} width={350} height={350} quality={100} priority alt='Imagen de contacto' className='rounded-md' />
         </div>
-				<div className='flex justify-center items-center'>
-					
-				</div>
       </section>
     </main>
   )

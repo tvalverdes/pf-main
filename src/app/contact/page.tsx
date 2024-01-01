@@ -1,4 +1,31 @@
 import { ContactEmail } from '@/components/contact-email/Index'
+import { Metadata } from 'next'
+
+const props = {
+  title: 'Contacto',
+  description: 'Contacta con nosotros para recibir una asesoría financiera especializada y personalizada',
+  keywords: 'finanzas, educación financiera, finanzas personales, finanzas para principiantes, finanzas para dummies, finanzas para todos, finanzas para emprendedores, finanzas para empresas, finanzas para pymes, finanzas para negocios, finanzas para profesionales, finanzas para estudiantes, finanzas para universitarios, finanzas para autónomos, finanzas para trabajadores, finanzas para empleados',
+}
+
+export const metadata: Metadata = {
+  title: props.title,
+  description: props.description,
+  keywords: props.keywords,
+  openGraph: {
+    title: props.title,
+    description: props.description,
+    url: 'https://www.pasionfinanzas.com/contact',
+    type: 'website',
+    images: [
+      {
+        url: 'https://www.pasionfinanzas.com/images/og_image.webp',
+        width: 1200,
+        height: 630,
+        alt: props.title,
+      },
+    ],
+  },
+  }
 
 export default function Contact() {
   return (

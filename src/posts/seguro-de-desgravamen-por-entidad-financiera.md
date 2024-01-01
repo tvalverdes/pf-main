@@ -46,7 +46,7 @@ Veamos un ejemplo con un promedio del saldo deudor diario de 300 soles (recu
 
 * * *
 
-Podría interesarte: [Seguro de Desgravamen, ¿Qué es?](https://pasionporlasfinanzas.com/seguro-de-desgravamen-que-es/)
+Podría interesarte: [Seguro de Desgravamen, ¿Qué es?](https://pasionporlasfinanzas.tvalverde.tech/posts/seguro-de-desgravamen-que-es/)
 
 * * *
 

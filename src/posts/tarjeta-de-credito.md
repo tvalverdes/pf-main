@@ -49,7 +49,7 @@ De esta forma puedes ir creando y mejorando tu **historial crediticio** para pos
 4. **Compras en cuotas sin intereses:**
 Este es otro gran beneficio que tienen la mayoría de tarjetas de crédito, en muchos establecimientos puedes comprar productos y ponerlo en 3, 6, 9, 12 o 18 meses sin intereses.  
     
-Verifica en la página web de tu banco para saber en qué establecimientos tiene este beneficio. **OJO:** Considerar que si bien es cierto no pagas intereses, si pagas el **seguro de desgravamen** de la tarjeta. Para saber cómo se calcula este seguro visita el artículo de [Seguro de Desgravamen, ¿Qué es?](https://pasionporlasfinanzas.com/seguro-de-desgravamen-que-es/)  
+Verifica en la página web de tu banco para saber en qué establecimientos tiene este beneficio. **OJO:** Considerar que si bien es cierto no pagas intereses, si pagas el **seguro de desgravamen** de la tarjeta. Para saber cómo se calcula este seguro visita el artículo de [Seguro de Desgravamen, ¿Qué es?](https://pasionporlasfinanzas.tvalverde.tech/posts/seguro-de-desgravamen-que-es/)  
 
 5. **Pagos recurrentes:**
 Esto también lo puedes hacer con la tarjeta de débito pero es importante mencionarlo.  
@@ -69,7 +69,7 @@ Si te diste cuenta, usamos el dinero del banco para **beneficio nuestro** y así
 
 * * *
 
-Podría interesarte: [Ciclo de Facturación de tu tarjeta de crédito](https://pasionporlasfinanzas.com/ciclo-de-facturacion-de-tu-tarjeta-de-credito/)
+Podría interesarte: [Ciclo de Facturación de tu tarjeta de crédito](https://pasionporlasfinanzas.tvalverde.tech/posts/ciclo-de-facturacion-de-tu-tarjeta-de-credito/)
 
 * * *
 

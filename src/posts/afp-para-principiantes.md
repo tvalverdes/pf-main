@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=d70PohexTco&t=1s
 Los “planes” que existen se les llama TIPO DE FONDO. Si puedes cambiarte entre ellos, sin embargo existen ciertas restricciones o características.  
 Por ejemplo, a pesar de existir el tipo de fondo 0, si tienes menos de 60 años no puedes elegirlo. Todas estas restricciones, características y tipos acerca de los TIPOS DE FONDO que existen actualmente lo encuentras en mi video titulado “Tipos de fondo AFP” que está anexado a la pregunta anterior.
 
-Si quieres más información de tipos de fondos, puedes revisar el artículo que tenemos en la web, te lo dejo [aquí](https://pasionporlasfinanzas.com/tipos-de-fondos-afp/).
+Si quieres más información de tipos de fondos, puedes revisar el artículo que tenemos en la web, te lo dejo [aquí](https://pasionporlasfinanzas.tvalverde.tech/posts/tipos-de-fondos-afp/).
 
 ## ¿Por qué es obligatoria la inscripción a un fondo de pensiones?
 

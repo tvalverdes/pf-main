@@ -48,7 +48,7 @@ Entonces he tratado de asimilar esas ideas para ejercerlas en mi vida diaria y e
 
 * * *
 
-Podría interesarte: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.com/importancia-de-las-finanzas-personales/)
+Podría interesarte: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.tvalverde.tech/posts/importancia-de-las-finanzas-personales/)
 
 * * *
 
@@ -60,11 +60,11 @@ La segunda fue más riesgosa, fue a los 23 años, mi cuñado me pidió un prést
 ### ¿Alguna vez has tenido una mala experiencia con inversiones en Fintech?
 
 Sí, en Afluenta empecé a invertir en préstamos que tenían baja calificación pero alta rentabilidad y tuve pérdidas, superando a las ganancias que tuve en los préstamos con alta calificación. Me quedó como lección aprendida para cualquier inversión.  
-**Por más que una empresa tenga buenos resultados en inversión (Afluenta) no quiere decir que todas las opciones que ofrece sean buenas. Recomiendo tomar en cuenta los TIPS que menciono en la entrada** [Gana dinero invirtiendo en facturas](https://pasionporlasfinanzas.com/gana-dinero-invirtiendo-en-facturas/)
+**Por más que una empresa tenga buenos resultados en inversión (Afluenta) no quiere decir que todas las opciones que ofrece sean buenas. Recomiendo tomar en cuenta los TIPS que menciono en la entrada** [Gana dinero invirtiendo en facturas](https://pasionporlasfinanzas.tvalverde.tech/posts/gana-dinero-invirtiendo-en-facturas/)
 
 Los TIPS que nos ha dejado Rogger son bastante valiosos y los ha ido descubriendo con sus propias experiencias, las cuales quiere transmitir a ustedes para ayudarlos a que tengan el camino mucho más claro hacia sus ahorros e inversiones.  
 ¡Muchas Gracias, Rogger!
 
 Eso es todo por este artículo. Recuerda que puedes seguirnos en [YouTube](https://www.youtube.com/@PasionporlasFinanzas) y en nuestra redes sociales, los íconos están al final de la página.
 
-Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://pasionporlasfinanzas.com/separar-asesoria/).
+Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://asesoria.pasionporlasfinanzas.com).

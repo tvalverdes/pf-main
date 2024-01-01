@@ -37,6 +37,6 @@ Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/@PasionporlasFi
 
 * * *
 
-Podría interesarte: [¿Cómo invertir en acciones?](https://pasionporlasfinanzas.com/como-invertir-en-acciones/)
+Podría interesarte: [¿Cómo invertir en acciones?](https://pasionporlasfinanzas.tvalverde.tech/posts/como-invertir-en-acciones/)
 
 * * *

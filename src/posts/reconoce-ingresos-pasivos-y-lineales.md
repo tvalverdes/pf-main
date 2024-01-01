@@ -25,7 +25,7 @@ Los explicaré a través de características.
 
 * * *
 
-Te puede interesar: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.com/importancia-de-las-finanzas-personales/)
+Te puede interesar: [Importancia de las Finanzas Personales](https://pasionporlasfinanzas.tvalverde.tech/posts/importancia-de-las-finanzas-personales/)
 
 * * *
 
@@ -41,4 +41,4 @@ Te puede interesar: [Importancia de las Finanzas Personales](https://pasionporla
 
 Eso es todo por este artículo. Recuerda que puedes seguirnos en [YouTube](https://www.youtube.com/@PasionporlasFinanzas) y en nuestra redes sociales, los íconos están al final de la página.
 
-Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://pasionporlasfinanzas.com/separar-asesoria/).
+Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o a través de nuestra página, ingresando al apartado de [asesoría](https://asesoria.pasionporlasfinanzas.com).

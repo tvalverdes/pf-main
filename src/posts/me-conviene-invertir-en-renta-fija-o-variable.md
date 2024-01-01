@@ -31,7 +31,7 @@ Recuerda siempre que en este tipo de inversión **la rentabilidad es incierta**,
 
 * * *
 
-Podría interesarte: [¿Cómo invertir en Renta Variable?](https://pasionporlasfinanzas.com/como-invertir-en-acciones/)
+Podría interesarte: [¿Cómo invertir en Renta Variable?](https://pasionporlasfinanzas.tvalverde.tech/posts/como-invertir-en-acciones/)
 
 * * *
 
@@ -70,7 +70,7 @@ Ellos pasan todo su fondo a renta fija (Tipo 0), de esta forma preservan el capi
 
 * * *
 
-Podría interesarte: [Claves antes de abrir un depósito a plazo fijo](https://pasionporlasfinanzas.com/claves-antes-de-abrir-un-deposito-a-plazo-fijo/)
+Podría interesarte: [Claves antes de abrir un depósito a plazo fijo](https://pasionporlasfinanzas.tvalverde.tech/posts/claves-antes-de-abrir-un-deposito-a-plazo-fijo/)
 
 * * *
 

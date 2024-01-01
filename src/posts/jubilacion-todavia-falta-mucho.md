@@ -40,7 +40,7 @@ En ese momento me puse a pensar en qué podría responder, la tenía difícil, d
 
 * * *
 
-Podría interesarte: [¿Cómo alcanzar la libertad financi](https://pasionporlasfinanzas.com/como-alcanzar-la-libertad-financiera/)[era?](https://pasionporlasfinanzas.com/como-alcanzar-la-libertad-financiera/)
+Podría interesarte: [¿Cómo alcanzar la libertad financiera?](https://pasionporlasfinanzas.tvalverde.tech/posts/como-alcanzar-la-libertad-financiera/)
 
 * * *
 
@@ -58,4 +58,4 @@ Nuestro presente es la causa de las decisiones que tomamos en el pasado, las dec
 
 Disfruta tu juventud, viaja y diviértete pero no descuides el ahorro. Destina un porcentaje de tu salario mensual a ahorrar, prepárate en finanzas personales y aprende a administrar bien tu dinero. Recuerda que sin inversión no podrás jubilarte antes y para invertir necesitas tener ahorros, te lo digo por experiencia propia.
 
-Eso es todo por este artículo. Recuerda que puedes seguirnos en [YouTube](https://www.youtube.com/@PasionporlasFinanzas) y en nuestra redes sociales, los íconos están al final de la página. Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o en el apartado [Aseso](https://pasionporlasfinanzas.com/separar-asesoria/)[ría](https://pasionporlasfinanzas.com/separar-asesoria/)
+Eso es todo por este artículo. Recuerda que puedes seguirnos en [YouTube](https://www.youtube.com/@PasionporlasFinanzas) y en nuestra redes sociales, los íconos están al final de la página. Comparte este artículo con alguien que pueda necesitar esta información y contáctanos ante cualquier duda o si necesitas una Asesoría especializada a [contacto@pasionporlasfinanzas.com](mailto:contacto@pasionporlasfinanzas.com) o en el apartado [Asesoría](https://asesoria.pasionporlasfinanzas.com)

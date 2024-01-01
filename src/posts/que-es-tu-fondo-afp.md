@@ -39,6 +39,6 @@ Recuerda que puedes visitar nuestra [lista de reproducción sobre AFP en YouTube
 
 * * *
 
-Puede interesarte: [La VERDAD sobre la RENTABILIDAD de tu AFP en PERÚ](https://pasionporlasfinanzas.com/la-verdad-sobre-la-rentabilidad-de-tu-afp-en-peru/)
+Puede interesarte: [La VERDAD sobre la RENTABILIDAD de tu AFP en PERÚ](https://pasionporlasfinanzas.tvalverde.tech/posts/la-verdad-sobre-la-rentabilidad-de-tu-afp-en-peru/)
 
 * * *

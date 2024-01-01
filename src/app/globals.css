@@ -170,6 +170,7 @@ tr {
 #article h1 {
   color: #030712;
   margin-bottom: 10px;
+  word-break: break-all;
 }
 #article h2 {
   font-size: 1.5rem;
@@ -195,6 +196,7 @@ tr {
   color: #030712;
   text-decoration: none;
   width: fit-content;
+  word-break: break-all;
 }
 #article a:hover {
   transition: color .3s;

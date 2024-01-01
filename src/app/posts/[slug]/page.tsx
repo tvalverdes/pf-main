@@ -31,8 +31,6 @@ const author = {
   picture: '/images/andres_valverde.webp',
   bio: 'Ingeniero de Sistemas, Asesor Financiero',
 }
-//falta agregar skeleton loading
-
 
 const PostPage = (props: any) => {
   const slug = props.params.slug
